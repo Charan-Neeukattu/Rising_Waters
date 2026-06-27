@@ -79,19 +79,27 @@ Rising_Waters/
 
 ## ▶️ How to Run
 
+## 🌐 Live Demo
+
+**Website:** https://rising-waters-19hr.onrender.com
+
+---
+
+## ▶️ Run Locally
+
 1. Install the required packages
 
-```
+```bash
 pip install -r requirements.txt
 ```
 
 2. Run the application
 
-```
+```bash
 python app.py
 ```
 
-3. Open your browser
+3. Open in your browser
 
 ```
 http://127.0.0.1:5000
